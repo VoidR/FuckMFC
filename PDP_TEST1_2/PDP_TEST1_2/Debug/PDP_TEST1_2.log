@@ -1,0 +1,30 @@
+﻿生成启动时间为 2019/10/31 1:24:56。
+     1>项目“C:\Users\11833\Desktop\彭德攀_5120173511_实验作业1\01 项目源代码\PDP_TEST1_2\PDP_TEST1_2\PDP_TEST1_2.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\PDP_TEST1_2.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\vs2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\PDP_TEST1_2.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Hanoi.cpp MainFrm.cpp PDP_TEST1_2.cpp PDP_TEST1_2Doc.cpp PDP_TEST1_2View.cpp Rectangle.cpp
+         Rectangle.cpp
+         PDP_TEST1_2View.cpp
+         PDP_TEST1_2Doc.cpp
+         PDP_TEST1_2.cpp
+         MainFrm.cpp
+         Hanoi.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\PDP_TEST1_2.res" PDP_TEST1_2.rc 
+       Link:
+         D:\vs2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\11833\Desktop\彭德攀_5120173511_实验作业1\01 项目源代码\PDP_TEST1_2\Debug\PDP_TEST1_2.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\vs2012\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"C:\Users\11833\Desktop\彭德攀_5120173511_实验作业1\01 项目源代码\PDP_TEST1_2\Debug\PDP_TEST1_2.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\11833\Desktop\彭德攀_5120173511_实验作业1\01 项目源代码\PDP_TEST1_2\Debug\PDP_TEST1_2.lib" /MACHINE:X86 Debug\PDP_TEST1_2.res
+         Debug\Hanoi.obj
+         Debug\MainFrm.obj
+         Debug\PDP_TEST1_2.obj
+         Debug\PDP_TEST1_2Doc.obj
+         Debug\PDP_TEST1_2View.obj
+         Debug\Rectangle.obj
+         Debug\stdafx.obj
+         PDP_TEST1_2.vcxproj -> C:\Users\11833\Desktop\彭德攀_5120173511_实验作业1\01 项目源代码\PDP_TEST1_2\Debug\PDP_TEST1_2.exe
+     1>已完成生成项目“C:\Users\11833\Desktop\彭德攀_5120173511_实验作业1\01 项目源代码\PDP_TEST1_2\PDP_TEST1_2\PDP_TEST1_2.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:10.95
