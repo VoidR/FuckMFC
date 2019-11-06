@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAmusement" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAACAAAAABA=</HashCode>
+      <FileName>Amusement.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChart" Collapsed="true">
+    <Position X="7" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAACAAoABgQBQAhAQAAIAAAAQAKAAAAAACICAAA=</HashCode>
+      <FileName>Chart.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CClothing" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAACAQAAAAA=</HashCode>
+      <FileName>Clothing.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CConsume" Collapsed="true">
+    <Position X="5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAABAQAAAACAEAAAEAAACCAkAEwA=</HashCode>
+      <FileName>Consume.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDiet" Collapsed="true">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAAAAAAAACAAAACAAAAAAA=</HashCode>
+      <FileName>Diet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEducation" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAIAAACAAAAAAA=</HashCode>
+      <FileName>Education.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLoan" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAACCAAAAAAA=</HashCode>
+      <FileName>Loan.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
