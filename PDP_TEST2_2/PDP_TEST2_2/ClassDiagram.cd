@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CCreate">
+    <Position X="0.5" Y="0.75" Width="2.5" />
+    <NestedTypes>
+      <Enum Name="CCreate::__unnamed_enum_0002_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Create.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAsGgAAAgCAAIABAAAAAkAAAQAAggAAIAAAIAQVA=</HashCode>
+      <FileName>Create.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPDP_TEST2_2View">
+    <Position X="3.25" Y="0.75" Width="2.5" />
+    <Members>
+      <Method Name="~CPDP_TEST2_2View" Hidden="true" />
+      <Method Name="AssertValid" Hidden="true" />
+      <Method Name="CPDP_TEST2_2View" Hidden="true" />
+      <Method Name="Dump" Hidden="true" />
+      <Method Name="GetDocument" Hidden="true" />
+      <Method Name="PreCreateWindow" Hidden="true" />
+    </Members>
+    <NestedTypes>
+      <Enum Name="CPDP_TEST2_2View::__unnamed_enum_000a_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PDP_TEST2_2View.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AhARAEFoPAgCwCEIGJgAwAAmhAECEBIAVAyIggIACQI=</HashCode>
+      <FileName>PDP_TEST2_2View.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
